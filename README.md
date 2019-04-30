@@ -1,1 +1,1 @@
-# GitKurmax.github.io
+Training project site Uber Eats
